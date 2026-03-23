@@ -6,6 +6,10 @@ The **BME690 Sensor Module** is an environmental sensing board designed for accu
 
 ---
 
+PCB Design File is in KiCAD
+
+---
+
 ## Features
 
 * Supports **I2C communication**
